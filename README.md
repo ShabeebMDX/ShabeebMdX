@@ -11,3 +11,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=shabeebmdx&theme=highcontrast" align="center">
 </p>
+
+## 🎵 Now playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://spotify.com/)
