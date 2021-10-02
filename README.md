@@ -2,7 +2,7 @@
 - **📚 B.COM Student**
 - **🧑‍💻 Interested To Learn Coding**
 
- [![Profile views](https://komarev.com/ghpvc/?username=shabeebmdx&label=Profile%100Views&color=blue)](https://github.com/shabeebMdX)
+ [![Profile views](https://komarev.com/ghpvc/?username=shabeebmdx&label=Profile%20Views&color=blue)](https://github.com/shabeebMdX)
 
 #
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░
