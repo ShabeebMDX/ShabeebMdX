@@ -1,7 +1,7 @@
 ## 🙋🏼‍♂️ Hi, I’m 𝙎𝙃𝘼𝘽𝙀𝙀𝘽, Welcome to my Profile
 - **📚 B.COM Student**
 - **🧑‍💻 Interested To Learn Coding**
- [![Profile views](https://komarev.com/ghpvc/?username=anjanama&label=Profile%20Views&color=red)](https://github.com/AnjanaMadu)
+ [![Profile views](https://komarev.com/ghpvc/?username=anjanama&label=Profile%20Views&color=red)](https://github.com/shabeebMdX)
 
 #
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░
